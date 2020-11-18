@@ -9,6 +9,6 @@ I have also uploaded the Requirements Documentation, Design Documentation, as we
 I included the UI.java file to demonstrate my coding practices and formatting, as this portion of the code was primarilly written by myself with some additions to interface
 with code written by my project collaborators being written by said collaborators.
 
-Note: This project was created by a team of three people. I pwas responsible for many aspects of the project but can claim the User Interface implementation as solely mine so I have chosen this aspect to focus upon.
+Note: This project was created by a team of three people. I was responsible for many aspects of the project but the user interface was almost entirely my effort and therefore is the best example of my personal coding structure and formatting. 
 
 Please also note that this program is designed to be used with a 5th edition D&D Player's Handbook or with the SRD.
